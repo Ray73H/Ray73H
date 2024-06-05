@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi my name is Ray Heinonen
+
+#I am a Computer Engineering Student at UC San Diego
 
 <!--
 **Ray73H/Ray73H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
